@@ -255,8 +255,8 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 27623728}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -10.574757, y: -5.2405767, z: -6.834855}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 20, y: 1, z: 500}
   m_Children:
   - {fileID: 1038392914}
@@ -680,7 +680,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 845258743}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: -94.4}
+  m_LocalPosition: {x: 0, y: 1, z: -200}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 479749433}
@@ -735,6 +735,7 @@ GameObject:
   - component: {fileID: 1038392914}
   - component: {fileID: 1038392916}
   - component: {fileID: 1038392915}
+  - component: {fileID: 1038392917}
   m_Layer: 0
   m_Name: NearTheEndTrigger
   m_TagString: Untagged
@@ -779,6 +780,25 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 25, z: 0.1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &1038392917
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1038392913}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04c99e4a264b3d84899fd5a4b8baa7f7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ground: {fileID: 27623728}
+  obstaclePrefabs:
+  - {fileID: 1697097714925194, guid: c96d7d2da956b1540a7d1b5809fbef3f, type: 2}
+  - {fileID: 1965838798394554, guid: ef5c62adaa2ac924ca6a2f1c0a2fcf35, type: 2}
+  - {fileID: 1494578908505446, guid: 7b544e17f1916e649870319a2054e21e, type: 2}
+  - {fileID: 1145276047612208, guid: 144874c91703a234eb182ba8e746f086, type: 2}
+  - {fileID: 1305418529862546, guid: 2dbf7dcf152fb30499adb827346d4a76, type: 2}
+  - {fileID: 1541241792016486, guid: 9be2c84fe00cdf64395f47084a390ccc, type: 2}
 --- !u!1 &1042834891
 GameObject:
   m_ObjectHideFlags: 0
@@ -1099,7 +1119,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1512185853}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 10.574757, y: 5.2405767, z: 6.834855}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 27623732}
