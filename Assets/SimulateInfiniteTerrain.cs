@@ -10,7 +10,7 @@ public class SimulateInfiniteTerrain : MonoBehaviour
     {
         if (other.GetComponent<PlayerMovement>() != null)
         {
-            ground.transform.position = new Vector3(ground.transform.position.x, ground.transform.position.y, ground.transform.position.z + (ground.transform.localScale.z / 2 - 10));
+            ground.transform.position = new Vector3(ground.transform.position.x, ground.transform.position.y, ground.transform.position.z + (ground.transform.localScale.z / 2 - 25));
         }
     }
 }
