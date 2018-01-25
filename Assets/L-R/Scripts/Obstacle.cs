@@ -8,7 +8,7 @@ public class Obstacle : MonoBehaviour
     {
         if (col.gameObject.GetComponent<PlayerMovement>() != null)
         {
-            Debug.Log("We've hit the player!");
+            Debug.Log(name + " has hit the player!");
 
             col.gameObject.GetComponent<PlayerMovement>().enabled = false;
             col.rigidbody.velocity = new Vector3(0, 0, 0);
