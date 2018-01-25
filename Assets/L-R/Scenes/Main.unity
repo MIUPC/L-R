@@ -792,6 +792,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ground: {fileID: 27623728}
+  delayTimeSec: 1
   obstaclePrefabs:
   - {fileID: 1697097714925194, guid: c96d7d2da956b1540a7d1b5809fbef3f, type: 2}
   - {fileID: 1965838798394554, guid: ef5c62adaa2ac924ca6a2f1c0a2fcf35, type: 2}
