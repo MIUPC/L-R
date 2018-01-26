@@ -265,6 +265,7 @@ GameObject:
   m_Component:
   - component: {fileID: 36712291}
   - component: {fileID: 36712292}
+  - component: {fileID: 36712293}
   m_Layer: 5
   m_Name: Buttons
   m_TagString: Untagged
@@ -288,7 +289,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -75}
+  m_AnchoredPosition: {x: 0, y: -81.25}
   m_SizeDelta: {x: 505.5, y: 448.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &36712292
@@ -313,6 +314,17 @@ MonoBehaviour:
   m_ChildForceExpandHeight: 1
   m_ChildControlWidth: 0
   m_ChildControlHeight: 0
+--- !u!114 &36712293
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 36712290}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9335d13acc2929419b0178485590ee1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &448958627 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 1697097714925194, guid: c96d7d2da956b1540a7d1b5809fbef3f,
@@ -540,7 +552,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 771879884}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 36712293}
+        m_MethodName: PlayGame
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &771879884
