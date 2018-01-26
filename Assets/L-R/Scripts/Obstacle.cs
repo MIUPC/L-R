@@ -11,8 +11,9 @@ public class Obstacle : MonoBehaviour
             Debug.Log(name + " has hit the player!");
 
             col.gameObject.GetComponent<PlayerMovement>().enabled = false;
-            col.rigidbody.velocity = new Vector3(0, 0, 0);
+            //col.rigidbody.velocity = new Vector3(0, 0, 0);
             col.gameObject.GetComponent<DidHitObstacle>().PlayerDie();
+            col.gameObject.transform.GetChild(0).parent = null;
         }
     }
 }
