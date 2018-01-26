@@ -13,7 +13,16 @@ public class Obstacle : MonoBehaviour
             col.gameObject.GetComponent<PlayerMovement>().enabled = false;
             //col.rigidbody.velocity = new Vector3(0, 0, 0);
             col.gameObject.GetComponent<DidHitObstacle>().PlayerDie();
-            col.gameObject.transform.GetChild(0).parent = null;
+            //col.gameObject.transform.GetChild(0).parent = null;
+            try
+            {
+                col.gameObject.transform.Find("Main Camera").parent = null;
+            }
+            catch
+            {
+                Debug.LogError("Main Camera could not be found on " + col.gameObject.name + ". Are you sure its named \"Main Camera?\"");
+                col.gameObject.transform.GetChild(0).parent = null;
+            }
         }
     }
 }
