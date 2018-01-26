@@ -28,8 +28,8 @@ public class SpawnRandomObjects : MonoBehaviour
         {
             currentTime = 0;
 
-            float maxWidht = ground.transform.localScale.x;
-            float maxLength = ground.transform.localScale.z;
+            //float maxWidht = ground.transform.localScale.x;
+            //float maxLength = ground.transform.localScale.z;
 
             float maxWidthRandom = UnityEngine.Random.Range(-10, 10);
             //float maxLenghtRandom = UnityEngine.Random.Range(-maxLength, maxLength);
