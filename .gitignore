@@ -36,3 +36,5 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+Assets/L-R/Scenes/Main.unity
+ProjectSettings/ProjectVersion.txt
