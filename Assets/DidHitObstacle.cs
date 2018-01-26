@@ -15,6 +15,7 @@ public class DidHitObstacle : MonoBehaviour
 
     public void PlayerDie()
     {
+        isDead = true;
         gameOverScreen.SetActive(true);
     }
 }
