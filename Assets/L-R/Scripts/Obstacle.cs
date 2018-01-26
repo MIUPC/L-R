@@ -18,9 +18,9 @@ public class Obstacle : MonoBehaviour
             {
                 col.gameObject.transform.Find("Main Camera").parent = null;
             }
-            catch
+            catch(System.Exception ex)
             {
-                Debug.LogError("Main Camera could not be found on " + col.gameObject.name + ". Are you sure its named \"Main Camera?\"");
+                Debug.LogError("Main Camera could not be found on " + col.gameObject.name + ". Are you sure its named \"Main Camera?\"\n\nERROR:" + ex);
                 col.gameObject.transform.GetChild(0).parent = null;
             }
         }

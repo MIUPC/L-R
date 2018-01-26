@@ -4,12 +4,12 @@ public class PlayerMovement : MonoBehaviour
 {
 
     public Rigidbody rb;
-    public float Speed = 2000f;
+    public float playerSpeed = 2000f;
     public float sidewaysForce = 500f;
 	
 	void FixedUpdate ()
     {
-        rb.AddForce(0, 0, Speed * Time.deltaTime);
+        rb.AddForce(0, 0, playerSpeed * Time.deltaTime);
 
         if(Input.GetKey("d"))
         {

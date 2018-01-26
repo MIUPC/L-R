@@ -1,24 +1,24 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
-public class Menu : MonoBehaviour {
+public class Menu : MonoBehaviour
+{
 
-    public GameObject SettingsMenu;
-    public bool SettingPopup;
+    public GameObject settingsMenu;
+    public bool settingPopup;
     public Slider volumeSlider;
     public AudioSource volumeAudio;
 
     void Update ()
     {
-        if (SettingPopup == true)
+        if (settingPopup == true)
         {
-            SettingsMenu.SetActive(true);
+            settingsMenu.SetActive(true);
         }
-        if (SettingPopup == false)
+        if (settingPopup == false)
         {
-            SettingsMenu.SetActive(false);
+            settingsMenu.SetActive(false);
         }
     }
     public void VolumeController()
@@ -28,18 +28,18 @@ public class Menu : MonoBehaviour {
 
     public void OpenSettings()
     {
-        SettingPopup = true;
+        settingPopup = true;
     }
     public void CloseSettings()
     {
-        SettingPopup = false;
+        settingPopup = false;
     }
     public void Quit()
     {
         Application.Quit();
     }
-    public void Play(string LevelName)
+    public void Play(string levelName)
     {
-        Application.LoadLevel(LevelName);
+        SceneManager.LoadScene(levelName);
     }
 }
