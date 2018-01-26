@@ -9,6 +9,9 @@ public class SpawnRandomObjects : MonoBehaviour
     private float currentTime;
     [Space(10)]
     public float delayTimeSec;
+    [Header("-------------------------------------------------------")]
+    [Header("Try to use prefabs instead of objects in the scene!")]
+    [Header("-------------------------------------------------------")]
     public GameObject[] obstaclePrefabs;
 
     private void OnTriggerEnter(Collider other)
