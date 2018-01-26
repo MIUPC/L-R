@@ -723,7 +723,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rb: {fileID: 845258744}
   Speed: 1000
-  sidewaysForce: 600
+  sidewaysForce: 1200
 --- !u!114 &845258750
 MonoBehaviour:
   m_ObjectHideFlags: 0
