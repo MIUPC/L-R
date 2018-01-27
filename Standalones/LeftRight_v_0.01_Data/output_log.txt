@@ -1,0 +1,1789 @@
+Mono path[0] = 'D:/_Program Data/Unity projects/Mobile game/Standalones/LeftRight_v_0.01_Data/Managed'
+Mono path[1] = 'D:/_Program Data/Unity projects/Mobile game/Standalones/LeftRight_v_0.01_Data/Mono'
+Mono config path = 'D:/_Program Data/Unity projects/Mobile game/Standalones/LeftRight_v_0.01_Data/Mono/etc'
+PlayerConnection initialized from D:/_Program Data/Unity projects/Mobile game/Standalones/LeftRight_v_0.01_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55025
+Multi-casting "[IP] 192.168.178.67 [Port] 55025 [Flags] 2 [Guid] 2821578787 [EditorId] 258376243 [Version] 1048832 [Id] WindowsPlayer(BeastrobinPC) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55025]
+PlayerConnection already initialized - listening to [0.0.0.0:55025]
+Player data archive not found at `D:/_Program Data/Unity projects/Mobile game/Standalones/LeftRight_v_0.01_Data/data.unity3d`, using local filesystemInitialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c82)
+    Vendor:   NVIDIA
+    VRAM:     4029 MB
+    Driver:   23.21.13.8813
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\_Program Data\Unity projects\Mobile game\Standalones\LeftRight_v_0.01_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\_Program Data\Unity projects\Mobile game\Standalones\LeftRight_v_0.01_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\_Program Data\Unity projects\Mobile game\Standalones\LeftRight_v_0.01_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\_Program Data\Unity projects\Mobile game\Standalones\LeftRight_v_0.01_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\_Program Data\Unity projects\Mobile game\Standalones\LeftRight_v_0.01_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\_Program Data\Unity projects\Mobile game\Standalones\LeftRight_v_0.01_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\_Program Data\Unity projects\Mobile game\Standalones\LeftRight_v_0.01_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\_Program Data\Unity projects\Mobile game\Standalones\LeftRight_v_0.01_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\_Program Data\Unity projects\Mobile game\Standalones\LeftRight_v_0.01_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\_Program Data\Unity projects\Mobile game\Standalones\LeftRight_v_0.01_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.019 seconds
+Platform assembly: D:\_Program Data\Unity projects\Mobile game\Standalones\LeftRight_v_0.01_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\_Program Data\Unity projects\Mobile game\Standalones\LeftRight_v_0.01_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3200x1080 at -1280,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.241484 ms
+starting point: (0.0, 1.0, -200.0)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+HighscoreManager:Start() (at D:\_Program Data\Unity projects\Mobile game\Assets\HighscoreManager.cs:27)
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/HighscoreManager.cs Line: 27)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 308 -> priority: 1 
+  Thread -> id: 4e58 -> priority: 1 
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+Obstacle (5)(Clone) has hit the player!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Obstacle:OnCollisionEnter(Collision) (at D:\_Program Data\Unity projects\Mobile game\Assets\L-R\Scripts\Obstacle.cs:11)
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/L-R/Scripts/Obstacle.cs Line: 11)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.893653 ms
+System memory in use before: 19.0 MB.
+System memory in use after: 19.1 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 515.
+Total: 0.266949 ms (FindLiveObjects: 0.050595 ms CreateObjectMapping: 0.010572 ms MarkObjects: 0.195586 ms  DeleteObjects: 0.009061 ms)
+
+starting point: (0.0, 1.0, -200.0)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+HighscoreManager:Start() (at D:\_Program Data\Unity projects\Mobile game\Assets\HighscoreManager.cs:27)
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/HighscoreManager.cs Line: 27)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+Floor has hit the player!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Obstacle:OnCollisionEnter(Collision) (at D:\_Program Data\Unity projects\Mobile game\Assets\L-R\Scripts\Obstacle.cs:11)
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/L-R/Scripts/Obstacle.cs Line: 11)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.659255 ms
+System memory in use before: 19.2 MB.
+System memory in use after: 19.2 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 515.
+Total: 0.240518 ms (FindLiveObjects: 0.037380 ms CreateObjectMapping: 0.010949 ms MarkObjects: 0.183126 ms  DeleteObjects: 0.008306 ms)
+
+starting point: (0.0, 1.0, -200.0)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+HighscoreManager:Start() (at D:\_Program Data\Unity projects\Mobile game\Assets\HighscoreManager.cs:27)
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/HighscoreManager.cs Line: 27)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at SimulateInfiniteTerrain.OnTriggerEnter (UnityEngine.Collider other) [0x000ae] in D:\_Program Data\Unity projects\Mobile game\Assets\SimulateInfiniteTerrain.cs:18 
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/SimulateInfiniteTerrain.cs Line: 18)
+
+Floor has hit the player!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Obstacle:OnCollisionEnter(Collision) (at D:\_Program Data\Unity projects\Mobile game\Assets\L-R\Scripts\Obstacle.cs:11)
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/L-R/Scripts/Obstacle.cs Line: 11)
+
+Floor has hit the player!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Obstacle:OnCollisionEnter(Collision) (at D:\_Program Data\Unity projects\Mobile game\Assets\L-R\Scripts\Obstacle.cs:11)
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/L-R/Scripts/Obstacle.cs Line: 11)
+
+Floor has hit the player!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Obstacle:OnCollisionEnter(Collision) (at D:\_Program Data\Unity projects\Mobile game\Assets\L-R\Scripts\Obstacle.cs:11)
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/L-R/Scripts/Obstacle.cs Line: 11)
+
+Floor has hit the player!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Obstacle:OnCollisionEnter(Collision) (at D:\_Program Data\Unity projects\Mobile game\Assets\L-R\Scripts\Obstacle.cs:11)
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/L-R/Scripts/Obstacle.cs Line: 11)
+
+Floor has hit the player!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Obstacle:OnCollisionEnter(Collision) (at D:\_Program Data\Unity projects\Mobile game\Assets\L-R\Scripts\Obstacle.cs:11)
+ 
+(Filename: D:/_Program Data/Unity projects/Mobile game/Assets/L-R/Scripts/Obstacle.cs Line: 11)
+
