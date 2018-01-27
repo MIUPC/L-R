@@ -12,27 +12,11 @@ public class Menu : MonoBehaviour
 
     void Update ()
     {
-        if (settingPopup == true)
-        {
-            settingsMenu.SetActive(true);
-        }
-        if (settingPopup == false)
-        {
-            settingsMenu.SetActive(false);
-        }
+
     }
     public void VolumeController()
     {
         volumeAudio.volume = volumeSlider.value;
-    }
-
-    public void OpenSettings()
-    {
-        settingPopup = true;
-    }
-    public void CloseSettings()
-    {
-        settingPopup = false;
     }
     public void Quit()
     {
