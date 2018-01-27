@@ -71,7 +71,7 @@ public class HighscoreManager : MonoBehaviour
         File.WriteAllText(Path.Combine(saveFilePath, saveFileName), rawJSON);
     }
 
-    void LoadHighScore()
+    public void LoadHighScore()
     {
         //new PlayerData();
         if (File.Exists(Path.Combine(saveFilePath, saveFileName)))

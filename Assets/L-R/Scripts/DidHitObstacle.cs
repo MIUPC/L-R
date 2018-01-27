@@ -5,6 +5,7 @@ using UnityEngine;
 public class DidHitObstacle : MonoBehaviour
 {
     public GameObject gameOverScreen;
+    public GameObject highScoreManager;
     [Space(10)]
     public static bool isDead;
 
@@ -16,6 +17,7 @@ public class DidHitObstacle : MonoBehaviour
     public void PlayerDie()
     {
         isDead = true;
+        highScoreManager.GetComponent<HighscoreManager>().SaveHighScore();
         gameOverScreen.SetActive(true);
     }
 }

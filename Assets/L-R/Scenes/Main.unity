@@ -2323,6 +2323,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameOverScreen: {fileID: 1765616513}
+  highScoreManager: {fileID: 1791647121}
 --- !u!1 &858849618 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 100000, guid: 5a97cb57f9e2fdb48af03905ce6b3859, type: 3}
