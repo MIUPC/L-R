@@ -4,11 +4,17 @@ using UnityEngine;
 
 public class Obstacle : MonoBehaviour
 {
-
+    private void ObjDestroy()
+    {
+        Destroy(gameObject);
+    }
     private void Awake()
     {
-      if(gameObject.CompareTag("Obstacle"))
-        transform.Rotate(-90, 0, 90);
+        if (gameObject.CompareTag("Obstacle"))
+        {
+            transform.Rotate(-90, 0, 90);
+            Invoke("ObjDestroy", 12);
+        }
     }
 
     private void OnCollisionEnter(Collision col)
